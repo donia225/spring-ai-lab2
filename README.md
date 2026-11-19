@@ -61,7 +61,11 @@ Les principales fonctionnalités sont exposées à travers des API REST.
 
 <img width="1750" height="803" alt="test-lab2" src="https://github.com/user-attachments/assets/1193939a-e2ae-4f6a-a6e8-7bd71e75f6d4" />
 
+
+
 <img width="1752" height="860" alt="test-explainstructured-lab2" src="https://github.com/user-attachments/assets/66af0d21-b355-45e4-87af-1ef6cecb746e" />
+
+
 
 <img width="1647" height="903" alt="test-explain-concept-template" src="https://github.com/user-attachments/assets/086806e5-a9c0-45bb-9ab8-58f37e2446da" />
 
